@@ -1,5 +1,5 @@
 # Install java
-yum install java-17-amazon-corretto -y
+yum install java-21-amazon-corretto -y
 # navigate to /opt folder
 cd /opt
 # download the nexus files from the site by using wget cmd
